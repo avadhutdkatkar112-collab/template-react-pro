@@ -1,0 +1,15 @@
+{
+  "id": "react-pro",
+  "name": "React Pro Template",
+  "framework": "react",
+  "version": "1.0.0",
+  "features": {
+    "componentLibrary": true,
+    "librarySource": "shadcn-ui",
+    "authentication": false,
+    "database": false
+  },
+  "componentCategories": ["ui"],
+  "devCommand": "npm run dev",
+  "buildCommand": "npm run build"
+}
